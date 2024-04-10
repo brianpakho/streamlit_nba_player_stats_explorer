@@ -1,0 +1,1 @@
+This is a project where I experimented with Streamlit. It is mostly identical to what is shown in [this YouTube tutorial](https://www.youtube.com/watch?v=JwSS70SZdyM&t=1784s). Link to [his code](https://github.com/dataprofessor/streamlit_freecodecamp/tree/main/app_3_eda_basketball).
